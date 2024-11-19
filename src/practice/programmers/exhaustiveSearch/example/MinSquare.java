@@ -3,8 +3,8 @@ package practice.programmers.exhaustiveSearch.example;
 import practice.util.CustomLog;
 import practice.util.Solution;
 
-// 최소 직사각형
-public class Oblong implements Solution {
+// 완전 탐색 - 최소 직사각형
+public class MinSquare implements Solution {
     @Override
     public void run() {
         int[][] sizes = {{60, 50}, {30, 70}, {60, 30}, {80, 40}};

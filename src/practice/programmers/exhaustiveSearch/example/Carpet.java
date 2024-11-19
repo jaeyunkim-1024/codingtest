@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-/// 옐로우 타일이 카펫 중앙에 오게 넓이 구하기
+// 완전 탐색 - 카펫
 public class Carpet implements Solution {
     @Override
     public void run() {

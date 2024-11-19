@@ -6,6 +6,7 @@ import practice.util.Solution;
 import java.util.*;
 import java.util.stream.Collectors;
 
+// 완전 탐색 - 소수찾기
 public class Sosu implements Solution {
     @Override
     public void run() {

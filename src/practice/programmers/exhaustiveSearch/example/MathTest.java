@@ -5,6 +5,7 @@ import practice.util.Solution;
 
 import java.util.*;
 
+// 완전 탐색 - 모의고사
 public class MathTest implements Solution {
     @Override
     public void run() {

@@ -5,7 +5,7 @@ import practice.util.CustomLog;
 
 import java.util.*;
 
-/// 미해결
+// 완전 탐색 - 피로도
 public class Dungeon implements Solution {
     @Override
     public void run() {

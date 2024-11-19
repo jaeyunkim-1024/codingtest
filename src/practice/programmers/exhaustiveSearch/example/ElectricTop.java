@@ -5,6 +5,7 @@ import practice.util.Solution;
 
 import java.util.*;
 
+// 완전 탐색 - 전력망
 public class ElectricTop implements Solution {
 
     @Override

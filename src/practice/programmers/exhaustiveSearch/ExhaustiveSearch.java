@@ -1,4 +1,4 @@
-package practice.programmers.search.exhaustiveSearch;
+package practice.programmers.exhaustiveSearch;
 
 import practice.util.Solution;
 import practice.util.CustomLog;

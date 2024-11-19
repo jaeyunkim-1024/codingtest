@@ -1,4 +1,4 @@
-package practice.programmers.search.graph;
+package practice.programmers.graph;
 
 import practice.util.CustomLog;
 import practice.util.Solution;

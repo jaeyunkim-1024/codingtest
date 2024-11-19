@@ -1,8 +1,6 @@
 package practice;
 
-import practice.programmers.search.graph.GraphSearch;
-import practice.programmers.search.graph.example.NetworkConnection;
-import practice.programmers.search.graph.example.TargetNumber;
+import practice.programmers.graph.example.NetworkConnection;
 import practice.util.Solution;
 import practice.util.SolutionRunner;
 

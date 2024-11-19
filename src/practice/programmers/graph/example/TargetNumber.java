@@ -1,4 +1,4 @@
-package practice.programmers.search.graph.example;
+package practice.programmers.graph.example;
 
 import practice.util.Solution;
 
